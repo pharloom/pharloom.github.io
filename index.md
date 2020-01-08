@@ -179,7 +179,7 @@ button.disabled:hover {
 
 <p>pick which character(s) you like best from each shown group. the results, should, in theory, be entirely accurate, but they can be resorted if need be.
 
-source can be found <a href="https://github.com/antialiasis/favorite-picker>here.</a> all i did was put the images in (but here <a href="https://twitter.com/pharloom">i am</a> if you'd like to visit anyway.  </p>
+source can be found <a href="https://github.com/antialiasis/favorite-picker">here.</a> all i did was put the images in (but here <a href="https://twitter.com/pharloom">i am</a> if you'd like to visit anyway.  </p>
 
 <div id="container">
 
