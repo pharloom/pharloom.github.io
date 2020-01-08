@@ -238,6 +238,7 @@ var items = [
       {id: 'manuela', name: 'Manuela', image: 'https://cdnw.nickpic.host/sgup5z.md.png'}, 
     {id: 'hanneman', name: 'Hanneman', image: 'https://cdnw.nickpic.host/sgumdG.md.png'},
     {id: 'flayn', name: 'Flayn', image: 'https://cdnw.nickpic.host/sguI7A.md.png'},
+    {id: 'catherine', name: 'Catherine', image: 'https://cdnw.nickpic.host/sgADnO.png'}
 ];
 var myPicker = new picker.Picker({
     items: items
