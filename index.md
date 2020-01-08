@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta name="viewport" content="initial-scale=1.0">
@@ -177,7 +177,9 @@ button.disabled:hover {
 <body>
 <h1>Picker</h1>
 
-<p>You can include any content you want here.</p>
+<p>pick which character(s) you like best from each shown group. the results, should, in theory, be entirely accurate, but they can be resorted if need be.
+
+source can be found <a href="https://github.com/antialiasis/favorite-picker>here.</a> all i did was put the images in (but here <a href="https://twitter.com/pharloom">i am</a> if you'd like to visit anyway.  </p>
 
 <div id="container">
 
@@ -210,7 +212,7 @@ var items = [
     {id: 'lysithea', name: 'Lysithea', image: 'https://cdnw.nickpic.host/sguz8Y.md.png'},
         {id: 'ignatz', name: 'Ignatz', image: 'https://cdnw.nickpic.host/sguwOp.md.png'}, 
     {id: 'raphael', name: 'Raphael', image: 'https://cdnw.nickpic.host/sgu1ff.md.png'},
-    {id: 'lorenz', name: 'Lorenz', image: 'https://cdnw.nickpic.host/sguz8Y.md.png'},
+    {id: 'lorenz', name: 'Lorenz', image: 'https://cdnw.nickpic.host/sguRXb.md.png'},
      {id: 'ingrid', name: 'Ingrid', image: 'https://cdnw.nickpic.host/sguM3X.md.png'}, 
     {id: 'annette', name: 'Annette', image: 'https://cdnw.nickpic.host/sgunJe.md.png'},
     {id: 'mercedes', name: 'Mercedes', image: 'https://cdnw.nickpic.host/sgui1F.md.png'},
